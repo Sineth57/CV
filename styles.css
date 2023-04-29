@@ -1,0 +1,135 @@
+.left-side {
+    width: 400px;
+    background-color: rgb(48, 47, 47);
+    border-color: 2px silver;
+
+}
+ img {
+    width: 380px;
+    height: 380px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.left-side .l-profile{
+    margin-left: 10px;
+}
+.left-side .l-profile .l-profile-h2{
+    font-size: 40px;
+    color: white;
+    margin-left: 30px;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+.left-side .l-profile-container1 {
+    margin-left: 10px;
+}
+.left-side .l-profile-container1 .left-top-details{
+    color: white;
+    margin-top: -30px;
+}
+.left-side .l-profile-container1 .data-head{
+    font-size: 19px;
+    font-style: initial;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.left-side .l-profile-container1 .mydata{
+    margin-top: 5px;
+    font-size: 17px;
+    height: 20px;
+}
+.left-side .l-profile-container1 .profile-link{
+    margin-top: 20px;
+    border: 2px solid white;
+    background-color: antiquewhite;
+    font-weight: bolder;
+    font-size: 20px;
+    height: 30px;
+    color: black;
+}
+h2{
+    color: antiquewhite;
+    margin-left: 30px;
+}
+.left-side .l-profile-container2{
+    color: white;
+}
+
+
+
+.right-side{
+    margin-left: 405px;
+    margin-top: -1312px;
+    margin-right: 20px;
+}
+.right-side .r-topbox{
+    background-color: rgb(136, 136, 136);
+    height: 190px;
+}
+.right-side .r-top{
+    font-size: 40px;
+    margin-left: 144px;
+    margin-top: 40px;
+    padding-top: 1px;
+    
+}
+hr{
+    margin-left: -20px;
+    margin-top: -20px;
+}
+h3{
+    font-size: 25px;
+}
+.right-side .r-objective{
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-top: 5px;
+}
+.right-side .r-objective .ob-des{
+    color: black;
+    margin-top: 3px;
+    text-align: justify;
+}
+.right-side .r-objective .achiv{
+    font-size: 20px;
+  
+}
+.right-side .r-objective .achiv .achi-ele{
+    margin-top: 8px;
+    padding-top: 5px;
+}
+ .r-objective1 .r-top-details .rdata-head{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+.right-side .r-objective1{
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-top: 1px;
+}
+.r-objective1 .r-top-details .rmydata{
+    font-size: 16px;
+   
+    margin-top: 4px;
+}
+
+.right-side .r-objective3{
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-top: 1px;
+}
+.r-objective3 .r-top-details1 .rmydata1{
+    font-size: 20px;
+   
+    margin-top: 4px;
+}
+.r-objective3 .r-top-details1 .rdata-head1{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 12px;
+}
